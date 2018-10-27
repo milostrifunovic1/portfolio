@@ -690,6 +690,9 @@ body{
 
 
 @media only screen and (max-width: 600px){
+    #body{
+        background: url(img.jpg) fixed;
+    }
     #container1{
         width: 80%;
     }
