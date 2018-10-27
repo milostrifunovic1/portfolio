@@ -224,6 +224,11 @@ body{
     padding-top: 60px;
     padding-bottom: 50px;
 }
+#page-top{
+    
+    padding-top: 120px;
+    overflow: auto;
+}
 
 #footer{
     height: 100%;
