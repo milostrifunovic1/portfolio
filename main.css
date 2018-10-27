@@ -1,6 +1,13 @@
+html{
+   background: url(img.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 body{
     font-family: 'Montserrat';
-    background: url(img.jpg) fixed;
+    
 }
 #navb{
     background-color: rgba(0, 0, 0, 0.85);    
@@ -685,8 +692,12 @@ body{
 
 
 @media only screen and (max-width: 600px){
-    body{
-        background: url(img.jpg) fixed;
+   html{
+       background: url(img.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     }
     #container1{
         width: 80%;
