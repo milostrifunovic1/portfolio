@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat';
-    
+    background: url(img.jpg) fixed;
 }
 #navb{
     background-color: rgba(0, 0, 0, 0.85);    
@@ -224,17 +224,7 @@ body{
     padding-top: 60px;
     padding-bottom: 50px;
 }
-#page-top{
-    background: url(img.jpg) fixed;
-    padding-top: 120px;
-    overflow: auto;
-}
-#skills{
-    background: url(img.jpg) fixed;
-}
-#contact{
-    background: url(img.jpg) fixed;
-}
+
 #footer{
     height: 100%;
     width: 100%;
