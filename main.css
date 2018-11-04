@@ -695,7 +695,7 @@ body{
     #container2{
         width: 80%;
         font-size: 16px;
-        padding: 1px;
+        padding: 15px 1px 1px 1px;
     }
     #container2 h1{
         font-size: 40px;
@@ -703,7 +703,7 @@ body{
     #container3{
         width: 80%;
         font-size: 16px;
-        padding: 1px;
+        padding: 15px 1px 1px 1px;
     }
     #container3 h1{
         font-size: 30px;
