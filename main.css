@@ -376,7 +376,7 @@ body{
 }
 
 .progresso1 {
-    width: 80%;
+    width: 70%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -399,7 +399,7 @@ body{
     width: 1%;
   }
   to {
-    width: 80%;
+    width: 70%;
   }
 }
 
@@ -410,7 +410,7 @@ body{
     width: 1%;
   }
   to {
-    width: 80%;
+    width: 70%;
   }
 }
 
@@ -429,7 +429,7 @@ body{
   /* Firefox */
   -o-animation: prog2 5s;
   /*Opera*/
-    width: 77%;
+    width: 65%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -446,7 +446,7 @@ body{
     width: 1%;
   }
   to {
-    width: 77%;
+    width: 65%;
   }
 }
 
@@ -457,7 +457,7 @@ body{
     width: 1%;
   }
   to {
-    width: 77%;
+    width: 65%;
   }
 }
 
@@ -472,7 +472,7 @@ body{
   /* Firefox */
   -o-animation: prog3 5s;
   /* Opera */
-    width: 65%;
+    width: 60%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -489,7 +489,7 @@ body{
     width: 1%;
   }
   to {
-    width: 65%;
+    width: 60%;
   }
 }
 
@@ -500,7 +500,7 @@ body{
     width: 1%;
   }
   to {
-    width: 65%;
+    width: 60%;
   }
 }
 
@@ -515,7 +515,7 @@ body{
   /* Safari and Chrome */
   -o-animation: prog4 4s;
   /*Opera*/
-    width: 25%;
+    width: 22%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -535,7 +535,7 @@ body{
     width: 1%;
   }
   to {
-    width: 25%;
+    width: 22%;
   }
 }
 
@@ -546,7 +546,7 @@ body{
     width: 1%;
   }
   to {
-    width: 25%;
+    width: 22%;
   }
 }
 
@@ -561,7 +561,7 @@ body{
   /* Firefox */
   -o-animation: prog5 4s;
   /*Opera*/
-    width: 35%;
+    width: 33%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -581,7 +581,7 @@ body{
     width: 1%;
   }
   to {
-    width: 35%;
+    width: 33%;
   }
 }
 
@@ -592,7 +592,7 @@ body{
     width: 1%;
   }
   to {
-    width: 35%;
+    width: 33%;
   }
 }
 
@@ -605,7 +605,7 @@ body{
   /* Firefox */
   -o-animation: prog6 4s;
   /*Opera*/
-    width: 40%;
+    width: 35%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -625,7 +625,7 @@ body{
     width: 1%;
   }
   to {
-    width: 40%;
+    width: 35%;
   }
 }
 
@@ -636,7 +636,7 @@ body{
     width: 1%;
   }
   to {
-    width: 40%;
+    width: 35%;
   }
 }
 
@@ -649,7 +649,7 @@ body{
   /* Firefox */
   -o-animation: prog7 4s;
   /*Opera*/
-    width: 18%;
+    width: 15%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -667,7 +667,7 @@ body{
     width: 1%;
   }
   to {
-    width: 18%;
+    width: 15%;
   }
 }
 
@@ -678,7 +678,7 @@ body{
     width: 1%;
   }
   to {
-    width: 18%;
+    width: 15%;
   }
 }
 
