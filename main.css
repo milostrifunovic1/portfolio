@@ -515,7 +515,7 @@ body{
   /* Safari and Chrome */
   -o-animation: prog4 4s;
   /*Opera*/
-    width: 22%;
+    width: 30%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -535,7 +535,7 @@ body{
     width: 1%;
   }
   to {
-    width: 22%;
+    width: 30%;
   }
 }
 
@@ -546,7 +546,7 @@ body{
     width: 1%;
   }
   to {
-    width: 22%;
+    width: 30%;
   }
 }
 
@@ -561,7 +561,7 @@ body{
   /* Firefox */
   -o-animation: prog5 4s;
   /*Opera*/
-    width: 33%;
+    width: 35%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -581,7 +581,7 @@ body{
     width: 1%;
   }
   to {
-    width: 33%;
+    width: 35%;
   }
 }
 
@@ -592,7 +592,7 @@ body{
     width: 1%;
   }
   to {
-    width: 33%;
+    width: 35%;
   }
 }
 
@@ -605,7 +605,7 @@ body{
   /* Firefox */
   -o-animation: prog6 4s;
   /*Opera*/
-    width: 35%;
+    width: 37%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -625,7 +625,7 @@ body{
     width: 1%;
   }
   to {
-    width: 35%;
+    width: 37%;
   }
 }
 
@@ -636,7 +636,7 @@ body{
     width: 1%;
   }
   to {
-    width: 35%;
+    width: 37%;
   }
 }
 
@@ -649,7 +649,7 @@ body{
   /* Firefox */
   -o-animation: prog7 4s;
   /*Opera*/
-    width: 15%;
+    width: 17%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -667,7 +667,7 @@ body{
     width: 1%;
   }
   to {
-    width: 15%;
+    width: 17%;
   }
 }
 
@@ -678,7 +678,7 @@ body{
     width: 1%;
   }
   to {
-    width: 15%;
+    width: 17%;
   }
 }
 
