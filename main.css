@@ -376,7 +376,7 @@ body{
 }
 
 .progresso1 {
-    width: 67%;
+    width: 68%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -399,7 +399,7 @@ body{
     width: 1%;
   }
   to {
-    width: 67%;
+    width: 68%;
   }
 }
 
@@ -410,7 +410,7 @@ body{
     width: 1%;
   }
   to {
-    width: 67%;
+    width: 68%;
   }
 }
 
@@ -515,7 +515,7 @@ body{
   /* Safari and Chrome */
   -o-animation: prog4 4s;
   /*Opera*/
-    width: 40%;
+    width: 43%;
     height: 35px;
     background-color: #18bc9c;
     border-bottom-right-radius: 25px;
@@ -535,7 +535,7 @@ body{
     width: 1%;
   }
   to {
-    width: 40%;
+    width: 43%;
   }
 }
 
@@ -546,7 +546,7 @@ body{
     width: 1%;
   }
   to {
-    width: 40%;
+    width: 43%;
   }
 }
 
