@@ -388,7 +388,7 @@ body {
 }
 
 .progresso1 {
-  width: 68%;
+  width: 73%;
   height: 35px;
   background-color: #18bc9c;
   border-bottom-right-radius: 25px;
@@ -412,7 +412,7 @@ body {
     width: 1%;
   }
   to {
-    width: 68%;
+    width: 73%;
   }
 }
 
@@ -423,7 +423,7 @@ body {
     width: 1%;
   }
   to {
-    width: 68%;
+    width: 73%;
   }
 }
 
@@ -442,7 +442,7 @@ body {
   /* Firefox */
   -o-animation: prog2 5s;
   /*Opera*/
-  width: 65%;
+  width: 69%;
   height: 35px;
   background-color: #18bc9c;
   border-bottom-right-radius: 25px;
@@ -459,7 +459,7 @@ body {
     width: 1%;
   }
   to {
-    width: 65%;
+    width: 69%;
   }
 }
 
@@ -470,7 +470,7 @@ body {
     width: 1%;
   }
   to {
-    width: 65%;
+    width: 69%;
   }
 }
 
@@ -483,7 +483,7 @@ body {
   /* Firefox */
   -o-animation: prog3 5s;
   /* Opera */
-  width: 60%;
+  width: 64%;
   height: 35px;
   background-color: #18bc9c;
   border-bottom-right-radius: 25px;
@@ -500,7 +500,7 @@ body {
     width: 1%;
   }
   to {
-    width: 60%;
+    width: 64%;
   }
 }
 
@@ -511,7 +511,7 @@ body {
     width: 1%;
   }
   to {
-    width: 60%;
+    width: 64%;
   }
 }
 
@@ -568,7 +568,7 @@ body {
   /* Safari and Chrome */
   -o-animation: prog5 4s;
   /*Opera*/
-  width: 30%;
+  width: 33%;
   height: 35px;
   background-color: #18bc9c;
   border-bottom-right-radius: 25px;
@@ -588,7 +588,7 @@ body {
     width: 1%;
   }
   to {
-    width: 30%;
+    width: 33%;
   }
 }
 
@@ -599,7 +599,7 @@ body {
     width: 1%;
   }
   to {
-    width: 30%;
+    width: 33%;
   }
 }
 
@@ -690,7 +690,6 @@ body {
     width: 37%;
   }
 }
-
 .progresso8 {
   animation: prog8 4s;
   /*IE */
@@ -714,6 +713,7 @@ body {
 }
 
 /* IE */
+
 @keyframes prog8 {
   from {
     width: 1%;
