@@ -721,7 +721,7 @@ body {
 @media only screen and (max-width: 1200px) {
   body {
     background: url(desk1.jpg);
-    background-size: 800px 510px;
+    background-size: 300px 210px;
     
   }
   #container1 {
