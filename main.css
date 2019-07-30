@@ -720,8 +720,8 @@ body {
 
 @media only screen and (max-width: 1200px) {
   body {
-    background: url(desk1.jpg) fixed;
-    background-size: 800px 510px;
+    background: url(desk2.jpg) fixed;
+    
     
   }
   #container1 {
