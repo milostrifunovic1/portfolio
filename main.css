@@ -720,7 +720,7 @@ body {
 
 @media only screen and (max-width: 1200px) {
   body {
-    background: url(desk2.jpg) fixed;
+    background: url(desk1.jpg) fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
