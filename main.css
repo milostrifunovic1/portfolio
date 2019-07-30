@@ -720,8 +720,10 @@ body {
 
 @media only screen and (max-width: 1200px) {
   body {
-    background: url(desk2.jpg) fixed;
-    
+    background: url(desk1.jpg) fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
   }
   #container1 {
@@ -838,6 +840,15 @@ body {
   .progress-bar {
     padding-left: 8px;
     font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  body {
+    background: url(desk2.jpg) fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 
