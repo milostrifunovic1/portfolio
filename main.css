@@ -848,7 +848,7 @@ body {
     background: url(desk3.jpg) fixed;
     background-position: center center;
     background-repeat: no-repeat;
-    
+    background-size: cover;
   }
 }
 
@@ -857,7 +857,7 @@ body {
     background: url(desk3.jpg) fixed;
     background-position: center center;
     background-repeat: no-repeat;
-
+    background-size: cover;
   }
 }
 
