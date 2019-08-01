@@ -847,11 +847,11 @@ body {
 
 @media only screen and (max-width: 600px) {
   body {
-    position: fixed;
+    
     background: url(desk3.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
   }
 }
 
