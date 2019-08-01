@@ -847,10 +847,12 @@ body {
 
 @media only screen and (max-width: 600px) {
   body {
+    positon: fixed;
+    z-index: -1;
     background: url(desk3.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
   }
 }
 
