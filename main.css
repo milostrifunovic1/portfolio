@@ -843,7 +843,20 @@ body {
   }
 }
 
-
+@media only screen and (max-width: 1090px) {
+  body {
+    background: #95c9d6;
+  }
+  #page-top {
+    background: url(desk5.jpg) center no-repeat;
+  }
+  #skills {
+    background: url(desk6.jpg) center no-repeat;
+  }
+  #contact {
+    background: url(desk4.jpg) center no-repeat;
+  }
+}
 
 @media only screen and (max-width: 500px) {
   body {
