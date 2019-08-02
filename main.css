@@ -829,6 +829,9 @@ body {
   #navb {
     background-color: rgba(0, 0, 0, 0.85);
   }
+  .nav-link {
+    font-size: 12px;
+  }
   .nav-link.active {
     background-color: #95c9d6e1;
   }
